@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "tsc && node ./build/lcs"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.6"
+  },
+  "dependencies": {
+    "node-ts": "^5.1.2"
+  }
+}
