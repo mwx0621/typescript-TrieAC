@@ -1,4 +1,4 @@
-# typescript-LCS
+# typescript-TrieAC
 
 run `npm install` in root directory
 
