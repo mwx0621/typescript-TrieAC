@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "tsc && node ./build/lcs"
+    "lcs": "tsc && node ./build/lcs",
+    "ac": "tsc && node ./build/ac"
   },
   "devDependencies": {
     "@types/node": "^16.11.6"
